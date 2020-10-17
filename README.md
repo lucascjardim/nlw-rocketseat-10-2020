@@ -1,4 +1,4 @@
-### Implementação da aplicação #NextLevelWeek da Rocketseat
+# Implementação da aplicação #NextLevelWeek da Rocketseat
 
 Tecnologias utilizadas: Back-end: NodeJS + express + sqlite | Front-end web: HTML, CSS, ReactJS | Mobile: React-Native com expo.
 
